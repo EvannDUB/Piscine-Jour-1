@@ -1,0 +1,7 @@
+displayThisText(typeof  variableDeclareeMaisIndefinie)
+displayThisText(typeof true)
+displayThisText(typeof 12)
+displayThisText(typeof 42n)
+displayThisText(typeof Symbol())
+displayThisText(typeof [1, 2, 4])
+displayThisText(typeof Math.sin)
