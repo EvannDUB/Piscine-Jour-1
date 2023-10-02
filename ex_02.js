@@ -1,0 +1,10 @@
+var test_string = 'forty two';
+displayThisText(test_string, align = "center");
+var test_number = 42;
+displayThisText(test_number, align = "center");
+var test_boolean = true;
+displayThisText(test_boolean, align = "center");
+var test_null = null;
+displayThisText(test_null, align = "center");
+var test_decimals = 42.42;
+displayThisText(test_decimals, align = "center");
